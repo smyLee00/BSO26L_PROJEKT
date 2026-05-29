@@ -19,7 +19,7 @@ Automatyczny skaner lokalnej sieci komputerowej z wykrywaniem zagrożeń i rapor
 ## Instalacja na urządzeniu właściciela routera
 
 ```sh
-sudo git clone https://github.com/macius714/lan-scanner.git && cd lan-scanner && sudo sh install.sh
+sudo git clone https://github.com/macius714/BSO26L_PROJEKT && cd lan-scanner && sudo sh install.sh
 ```
 # Proces instalacji
 Po wywołaniu powyższej komendy na urządzeniu użytkownika rozpocznie się proces instalacji. Jeśli obok pytania widnieje wartośc zapisana w kwadratowym nawiasie [], oznacza to, że jest to wartość domyślna,
